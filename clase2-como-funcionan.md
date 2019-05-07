@@ -20,5 +20,13 @@ Se componen de diferentes partes:
 
 _https://gmail.com/envias_email_
 
-1. http _s_: Protocolo por el que estan viajando los datos.
+1. Protocolo por el que estan viajando los datos. : **http _s_**
     la **s**: significa que la información está viajando de forma cifrada o encriptada, de manera de proteger la información
+
+2. Dominio : **gmail.com** nombre con el cual encontramos en internet al servidor y se llega a traves del DNS
+
+3. Instrucción del servidor: **/envias_email_**
+
+### DNS (Domain Name Server)
+
+Es una base de datos que contiene direcciones IP y sus traducciones a url
