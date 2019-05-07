@@ -4,3 +4,7 @@
 
 ## IBM definió en los años 50 el "byte"
 Conjunto de 8 bits
+**Cogido Ascii**: Conjunto de bytes que representan caracteres
+
+## Assembler
+Bytes especiales de instucciones al navegador.
