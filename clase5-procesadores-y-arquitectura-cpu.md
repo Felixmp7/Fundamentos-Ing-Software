@@ -1,6 +1,6 @@
-#Arquitecturas
+# Arquitecturas
 
-##Desktop y Laptops
+## Desktop y Laptops
 1. Todas tienen un procesador central llamado CPU
     **CPU**:
     - Los producen empresas como: Intel, AMD.
