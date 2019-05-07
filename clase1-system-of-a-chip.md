@@ -1,4 +1,8 @@
-# BIOS
+## System on a Chip
+
+Combinación de los diferentes componentes que hacen un computador real
+
+## BIOS
 
 El BIOS (sigla en inglés de basic input/output system; en español "sistema básico de entrada y salida") es un software que localiza y reconoce todos los dispositivos necesarios para cargar el sistema operativo en la memoria RAM; es un software muy básico instalado en la placa base que permite que ésta cumpla su cometido.
 
