@@ -1,4 +1,4 @@
-# Información interesante que todos deberiamos saber.
+# Información interesante que todos deberíamos saber.
 
 UDP:
 https://es.wikipedia.org/wiki/User_Datagram_Protocol
